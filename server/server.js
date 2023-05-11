@@ -13,7 +13,7 @@ app.use(
     })
 );
 
-app.listen(3000, () => {
-    console.log(`Listening to PORT 3000 successfully ...`);
-    console.log(`http://localhost:3000/graphql`);
+app.listen(4000, () => {
+    console.log(`Listening to PORT 4000 successfully ...`);
+    console.log(`http://localhost:4000/graphql`);
 });
